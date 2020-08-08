@@ -1,0 +1,8 @@
+lenguajes de programación imperativos: Estos lenguajes concisten en instrucciones especificas de como se debe ralizar una tarea. 
+
+lenguajes de programación declarativos: Estos lenguajes utilizan palabras reservadas que puede indentificar el compilador, el cual le indica que accion debe realizar, ya el sistema con la simple instrucción ya puede identificar que se le esta solicitando.
+
+Ejemplo:
+Lenguajes declarativos son: HTML, SQL
+
+Lenguajes imperativos: Java, Python, C++.
