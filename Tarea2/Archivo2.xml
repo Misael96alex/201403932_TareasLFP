@@ -1,0 +1,26 @@
+<Mascotas>
+    <Liam>
+        <Tipo>Gato</Tipo>
+        <Edad>3</Edad>
+        <Dueño>Debora</Dueño>
+        <Color>Blanco</Color>
+    </Liam>
+    <Firulais>
+        <Tipo>Perro</Tipo>
+        <Edad>4</Edad>
+        <Dueño>Misael</Dueño>
+        <Color>Cafe</Color>
+    </Firulais>
+    <Nick>
+        <Tipo>Loro</Tipo>
+        <Edad>3</Edad>
+        <Dueño>Karina</Dueño>
+        <Color>Verde</Color>
+    </Nick>
+    <Tom>
+        <Tipo>Gato</Tipo>
+        <Edad>10</Edad>
+        <Dueño>Tomasa</Dueño>
+        <Color>Gris</Color>
+    </Tom>
+</Mascotas>

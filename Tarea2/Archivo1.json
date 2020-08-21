@@ -1,0 +1,38 @@
+{
+    "Estudiantes":[{
+        "Misael Alexander":[
+            {
+                "Edad":24,
+                "Ciudad":"Guatemala",
+                "Promedio":71,
+                "Clase Favorita":"Matemáticas"
+
+            }
+        ],
+        "Debora Pichilla":[
+            {
+                "Edad":22,
+                "Ciudad":"Petapa",
+                "Promedio":90,
+                "Clase Favorita":"Psicología"
+            }
+        ],
+        "Jonathan Mayen":[
+            {
+                "Edad":20,
+                "Ciudad":"Petapa",
+                "Promedio":90,
+                "Clase Favorita":"Psicología"
+            }
+        ],
+        "Karina Castillo":[
+            {
+                "Edad":15,
+                "Ciudad":"Villa Nueva",
+                "Promedio":89,
+                "Clase Favorita":"Astes Plásticas"  
+            }
+        ]
+        }
+    ]
+}
